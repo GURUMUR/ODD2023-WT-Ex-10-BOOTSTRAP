@@ -1,0 +1,36 @@
+.container{
+    text-align: center;
+
+}
+.input-box{
+    padding-top: 10px;
+    font-size: 20px;
+    
+}
+.content{
+    background-color: rgb(96, 216, 220);
+    padding: 50px;
+    margin-top: 10px;
+    
+}
+.title{
+    background-color: blueviolet;
+    color: beige;
+    padding: 20px;
+    font-size: 50px;
+    font-family: Playfair Display;
+    border: 5px solid rgb(17, 14, 14);
+}
+.rating-details{
+    font-size: 20px;
+}
+.button
+{
+    padding-top: 40px;
+    font-size: 30px;
+}
+.button1{
+    background-color: blue;
+    color: aliceblue;
+    font-size: 25px;
+}
